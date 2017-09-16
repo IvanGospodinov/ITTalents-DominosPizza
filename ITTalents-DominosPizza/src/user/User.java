@@ -28,7 +28,7 @@ public class User implements IPassword, ILogin {
 		} while(!checkPass);
 		Address a = new Address();
 		addToAddressBook(a);
-		
+		sc.close();
 	}
 	
 	

@@ -1,0 +1,8 @@
+package menu.enums_with_ingredients;
+
+public enum Vegetable {
+
+	CORN,BABY_SPINACH,PICKLES,BLACK_OLIVES,MUSHROOMS
+	,PESTO,ONION,JALAPENO,ARUGULA,TOMATOES,GREEN_PEPPERS,PINEAPPLE
+	
+}
